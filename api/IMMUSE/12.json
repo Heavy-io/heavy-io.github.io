@@ -4,4 +4,10 @@
    "external_link":"http://www.heavy.io/metahats",
    "image":"ipfs://QmRhxHoUhguJtkfWBHs8SXaCxXMN8J2STvenWMCcHcFUCN",
    "animation_url":"",
+   "attributes": [
+        {
+            "trait_type": "IMMUSE",
+            "value": "CONTENT"
+        }
+    ]
 }
